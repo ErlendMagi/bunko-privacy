@@ -1,6 +1,6 @@
 # Privacy Policy for Bunko
 
-**Last updated: 25 July 2026**
+**Last updated: 27 July 2026**
 
 ## The short version
 
@@ -12,13 +12,12 @@ Bunko saves a small amount of information locally, on your phone only. It is nev
 
 - **Reading progress** — which screen you reached in each book you have opened.
 - **Reading preferences** — furigana and romaji settings, text size, line spacing, and paper theme.
-- **Purchase state** — whether the full library has been unlocked.
 
 This data is stored in your device's app storage. Uninstalling Bunko removes all of it.
 
 ## Purchases
 
-Bunko offers one optional in-app purchase that unlocks the full library permanently. Payment is handled entirely by **Google Play**. Bunko never sees or stores your payment details. Google's handling of that transaction is governed by the [Google Play Terms of Service](https://play.google.com/intl/en/about/play-terms/) and the [Google Privacy Policy](https://policies.google.com/privacy).
+Bunko is free. There are no in-app purchases, no subscriptions and no advertising. The app does not contain the Google Play Billing library, and no payment information of any kind reaches it.
 
 ## Text-to-speech
 
